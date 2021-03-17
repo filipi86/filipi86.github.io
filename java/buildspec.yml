@@ -1,0 +1,25 @@
+version: 0.2
+phases:
+  install:
+    runtime-versions:
+        docker: 18
+  pre_build:
+    commands:
+      - echo Logging in to Amazon ECR...
+      - echo $REPO_NAME
+      - echo $REPO_BRANCH
+      - echo $REPO_BASE
+      - echo $HORUS_ADDR
+      - echo $VULNERABILITY_CHECK
+      - echo $USE_HTTPS
+      - $(aws ecr get-login --region us-east-1 --no-include-email)
+  build:
+    commands:
+      - echo Build started on `date`
+      - echo Building the Docker image...
+  post_build:
+    commands:
+      - echo Build completed on `date`
+      - echo ... Running Scan ....
+      - docker run --rm -e HORUS_CLIENT_REPO_BRANCH=$REPO_BRANCH -e HORUS_VULNERABILITY_CHECK=$VULNERABILITY_CHECK -e HORUS_CLIENT_API_ADDR=$HORUS_ADDR -e HORUS_CLIENT_REPO_URL=$REPO_BASE -e HORUS_CLIENT_API_USE_HTTPS=$USE_HTTPS 237930432518.dkr.ecr.us-east-1.amazonaws.com/tst-client
+      - echo $?
