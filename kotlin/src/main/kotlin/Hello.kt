@@ -141,8 +141,5 @@ fun getPassword(username: String): String {
 }
 
 fun main(args : Array<String>) {
-    val password = "secret1234"
-
-    println(password)
 }
 
