@@ -3,7 +3,7 @@ title: Open Source Projects
 
 ---
 
-# Discover our Open Source projects
+# Discover Open Source projects
 
 
 [<img src="/assets/img/sample/horusec_.png" height="90">](https://horusec.io/site/){:target="_blank"} 
