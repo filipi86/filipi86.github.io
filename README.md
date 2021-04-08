@@ -29,5 +29,5 @@ let's talk a little bit: Add me in <a href="https://twitter.com/FilipiPires" tar
 ## #Projects
 
 
-[<img src="/assets/img/sample/HINAC.png" height="90">](https://www.hackingisnotacrime.org/){:target="_blank"} | [<img src="/assets/img/sample/RTV.png" height="90">](https://redteamvillage.io){:target="_blank"} | [<img src="/assets/img/sample/DCG5511.jpg" height="100">](https://linktr.ee/dcg5511){:target="_blank"} | [<img src="/assets/img/sample/horusec_logo.png" height="90">](https://horusec.io/site/){:target="_blank"}
+[<img src="/assets/img/sample/HINAC.png" height="90">](https://www.hackingisnotacrime.org/) | [<img src="/assets/img/sample/RTV.png" height="90">](https://redteamvillage.io) | [<img src="/assets/img/sample/DCG5511.jpg" height="100">](https://linktr.ee/dcg5511) | [<img src="/assets/img/sample/horusec_logo.png" height="90">](https://horusec.io/site/)
 
