@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-🌏 English (docs/READM.md)
 =======
 <p align="center">
   <img height="500" src="/assets/img/sample/avatar.jpg">
