@@ -15,7 +15,7 @@ My name is **Filipi Pires**.
 
 I've been working Principal Security Engineer and Security Researcher at **Zup Innovation** and Security Researcher and Instructor at **Hacker Security**...
 
-I'm Hacking is NOT crime Advocate..
+I'm Hacking is NOT crime **Advocate**..and Red Team Village **Contributor**
 
 I'm part of the Staff team of DEFCON Group São Paulo-Brazil..
 
