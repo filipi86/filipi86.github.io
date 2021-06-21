@@ -8,6 +8,9 @@ tags: [MalwareAnalysis, PDFMalicious, Maldoc, ThreatHunting, Pentesting, Pentest
 ## **Zusy Malware using MSI**
 [<img src="https://pentestmag.com/wp-content/uploads/2021/02/PT_LAB-565x799.jpg" height="500">](https://pentestmag.com/product/pentest-build-your-own-pentest-lab-in-2021/){:target="_blank"}
 
+## **Secure Development Using an Open Source Tool**
+[<img src="https://pentestmag.com/wp-content/uploads/2021/05/PT3-2.jpg" height="500">](https://pentestmag.com/product/pentest-secure-development-lifecycle-and-pentesting/){:target="_blank"}
+
 ## **Malware undetected by CrowdStrike**
 [<img src="https://pentestmag.com/wp-content/uploads/2021/03/P33T.jpg" height="500">](https://pentestmag.com/product/pentest-privilege-escalation-in-practice/){:target="_blank"}
 
