@@ -6,14 +6,15 @@ title: About
 </p>
 
 
-                                      Filipi Pires 
-                            Security Researcher and Cyber Security Advocate
+                                      **Filipi Pires** 
+                            **Security Researcher and Cyber Security Advocate**
 
 # #Whoami
 
 My name is **Filipi Pires**. 
 
-I've been working Principal Security Engineer and Security Researcher at **Zup Innovation** and Security Researcher and Instructor at **Hacker Security**...
+I've been working **Principal Security Engineer**, **Security Researcher**, **Security Advocate** and **Security Instructor**..!
+
 
 I'm Hacking is NOT crime **Advocate**..and Red Team Village **Contributor**
 
