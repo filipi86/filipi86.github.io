@@ -10,7 +10,7 @@
 
 My name is **Filipi Pires**. 
 
-I've been working Principal Security Engineer, Security Researcher, Security Advocate and Security Instructor...!
+I've been working Principal Security Engineer, Security Researcher, Security Advocate and Security Instructor....!
 
 I'm Hacking is NOT crime **Advocate**..and Red Team Village **Contributor**
 
