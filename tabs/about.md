@@ -6,8 +6,8 @@ title: About
 </p>
 
 
-                                      **Filipi Pires** 
-                            **Security Researcher and Cyber Security Advocate**
+                                      Filipi Pires 
+                            Security Researcher and Cyber Security Advocate
 
 # #Whoami
 
