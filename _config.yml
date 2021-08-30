@@ -11,10 +11,10 @@ lang : en-US;
 lang : pt-BR
 title: FILIPI PIRES                     # the main title
 
-tagline: Security Researcher and Security Advocate, Founder and Technical Trainer of the Course — Malware Analysis Fundamentals.  # it will display as the sub-title
+tagline: Security Researcher and Security Advocate, Speaker and Technical Trainer of the Course Malware Attack Types with Kill Chain Methodology.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Security Researcher and Security Advocate, Founder and Technical Trainer of the Course — Malware Analysis Fundamentals.
+  Security Researcher and Security Advocate, Speaker and Technical Trainer of the Course — Malware Attack Types with Kill Chain Methodology.
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://filipi86.github.io/'
