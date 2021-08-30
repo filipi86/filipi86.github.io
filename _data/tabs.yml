@@ -13,11 +13,6 @@
   path: tabs
   url: about
 -
-  name: "OpenSource Projects"
-  icon: "fas fa-folder-open"
-  path: tabs
-  url: opensource
--
   name: "Presentations Talks"
   icon: "fas fa-tv"
   path: tabs
