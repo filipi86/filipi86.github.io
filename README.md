@@ -28,4 +28,4 @@ let's talk a little bit: Add me in <a href="https://twitter.com/FilipiPires" tar
 
 ## #Projects
 
-[<img src="/assets/img/sample/HINAC.png" height="120">](https://www.hackingisnotacrime.org/)  [<img src="/assets/img/sample/RTV.png" height="120">](https://redteamvillage.io)  [<img src="/assets/img/sample/DCG5511.jpg" height="110">](https://linktr.ee/dcg5511)
+[<img src="/assets/img/sample/HINAC.png" height="110">](https://www.hackingisnotacrime.org/)  [<img src="/assets/img/sample/RTV.png" height="110">](https://redteamvillage.io)  [<img src="/assets/img/sample/DCG5511.jpg" height="110">](https://linktr.ee/dcg5511)
