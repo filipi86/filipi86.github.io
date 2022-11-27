@@ -19,7 +19,7 @@ I'm Hacking is NOT crime **Advocate**..and Red Team Village **Contributor**
 
 I'm part of the Staff team of **DEFCON Group São Paulo-Brazil**..
 
-I've been talking in Security events in US, Germany, Poland, Hungary, Czech Republic, Brazil and others countries .. 
+I've been talking in Security events in US, Canada, Portugal, France, Spain, Germany, Poland, Hungary, Czech Republic, Brazil and others countries .. 
 
 I've been served as University Professor in graduation and MBA courses at Brazilian Colleges as FIAP, Mackenzie, UNIBTA and UNICIV.
 

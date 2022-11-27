@@ -54,7 +54,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: America/Sao_Paulo
+timezone: Europe/Lisbon
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID

@@ -1,1 +1,1 @@
-[ ]
+[ { "title": "Malware Analysis – Dissecting PDF file", "url": "/Malware-Analysis/", "categories": "Blog, Posts", "tags": "MalwareAnalysis, PDFMalicious, Maldoc", "date": "2021-04-06 01:20:00 +0100", "snippet": "This paper presents an in-depth security analysis of the PDF features and capabilities, independently from any vulnerability. The aim is to exhaustively explore and evaluate the risk attached to PDF language-based malware which could successfully using different techniques in malware-based in PDF..." } ]
